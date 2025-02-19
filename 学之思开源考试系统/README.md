@@ -10,3 +10,6 @@
 
 https://gitee.com/mindskip/xzs-mysql
 
+## 部署方式
+
+docker部署，参考https://gitee.com/mindskip/xzs-mysql/tree/master/docker
