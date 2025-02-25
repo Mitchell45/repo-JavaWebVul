@@ -6,7 +6,7 @@ Guan Yijia ERP (formerly known as Huaxia ERP) is based on the SpringBoot framewo
 
 ## Vulnerability Description
 
-华夏ERP系统存在信息泄露漏洞，通过请求含有payload的数据包即可返回用户名、密码、职级等敏感信息，由于漏洞利用难度简单，建议使用者立刻升级到v3.5及以上版本，防止此漏洞被利用。
+There is an information leakage vulnerability in the Huaxia ERP system. By sending a data packet containing a payload, sensitive information such as usernames, passwords, and job levels can be returned. Due to the simplicity of exploiting this vulnerability, it is recommended that users immediately upgrade to version 3.5 or above to prevent its exploitation.
 
 ## Examples URLs affected by the vulnerability
 
